@@ -17,7 +17,7 @@ const Navbar = async () => {
         <div className="relative flex h-16 items-center px-4 sm:px-6 lg:px-8">
           <Link href='/' className="ml-2 flex gap-x-2">
             <p className="font-bold text-xl">
-              Store
+              HyLink
             </p>
           </Link> 
           <MainNav 
